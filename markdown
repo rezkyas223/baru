@@ -1,0 +1,8 @@
+- models/
+  - movie.js
+- controllers/
+  - movieController.js
+- repositories/
+  - movieRepository.js
+- routes/
+  - movieRoutes.js
